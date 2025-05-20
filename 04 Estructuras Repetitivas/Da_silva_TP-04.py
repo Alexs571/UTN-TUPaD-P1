@@ -100,8 +100,8 @@
 # 10) Escribe un programa que invierta el orden de los dígitos de un número ingresado por el
 # usuario. Ejemplo: si el usuario ingresa 547, el programa debe mostrar 745.
 
-n = int(input("Ingrese un número entero: "))
-n_str= str(n)
-n_invertido = n_str[::-1] 
-n_invertido = int(n_invertido) 
-print("El número invertido es:", n_invertido)
+# n = int(input("Ingrese un número entero: "))
+# n_str= str(n)
+# n_invertido = n_str[::-1] 
+# n_invertido = int(n_invertido) 
+# print("El número invertido es:", n_invertido)
